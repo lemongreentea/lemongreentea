@@ -1,8 +1,8 @@
 # 🐇 Lemongreentea
-![SEOHUI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seohui&show_icons=true&theme=radical)
+![lemongreentea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lemongreentea&show_icons=true&theme=radical)
 
 ## 🛬 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohui&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lemongreentea&layout=compact&theme=radical)
 
 ## 🌈 Personal Info
 - **Name**: PARK SEO HUI
